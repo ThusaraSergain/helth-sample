@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="HellowWorld" groupId="com.example.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/HellowWorld.xml</file>
+    </artifact>
+    <artifact name="HellowWorld_" groupId="com.example.api" version="" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/HellowWorld_.xml</file>
+    </artifact>
+    <artifact name="HellowWorld__swagger" groupId="com.example.metadata" version="" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/HellowWorld__swagger.yaml</file>
+    </artifact>
+    <artifact name="HellowWorld__metadata" groupId="com.example.metadata" version="" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/HellowWorld__metadata.yaml</file>
+    </artifact>
+</artifacts>
